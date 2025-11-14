@@ -4,7 +4,10 @@
   <img width="800" alt="Logo FdP" src="https://github.com/user-attachments/assets/99ad1c7c-ee87-4335-a2a6-bc20e1944646"/>
 </a>
 </p>
-
+<!-- Divisory line --> 
+<p align ="center">
+<img width="890" height="20" alt="HR-VIOLET" src="https://github.com/user-attachments/assets/7c7064e8-91a6-415e-99b0-f7e8c8886920" />
+</p>
 <!-- Introducing & Contact --> 
 
   ### About Me
@@ -25,7 +28,7 @@
   </div><br><br>
 
 <!-- Bio -->   
-I'm Federico, a junior tester and a self-taught Web Frontend student.
+I'm Federico, a junior tester and a self-taught Web Front-end student.
 I have done several QA projects, both automated and manual.  
 You can see some of these below!
 
