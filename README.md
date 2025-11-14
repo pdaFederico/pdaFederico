@@ -1,23 +1,39 @@
 <!-- Header & Logo -->
+<p align ="center">
 <a href="https://github.com/pdaFederico">
-  <img align="center" src="https://github.com/user-attachments/assets/99ad1c7c-ee87-4335-a2a6-bc20e1944646"/>
-</a> 
+  <img width="800" alt="Logo FdP" src="https://github.com/user-attachments/assets/99ad1c7c-ee87-4335-a2a6-bc20e1944646"/>
+</a>
+</p>
 
 <!-- Introducing & Contact --> 
 
   ### About Me
-
-I'm Federico, a beginner tester and a self-taught Frontend student.  
-Below you can see some of my projects!
+<p align ="center">
+<a href="https://github.com/pdaFederico">
+  <img width="200" alt="Profile Picture" src="https://github.com/user-attachments/assets/8ef127af-4346-4e33-9a1a-3eaa38481927"/>
+</a>
+</p>
 
   <div align="center">
   <a href="#">
-  <img  width="55" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/linkedin.svg"/></a> 
+  <img  width="55" alt="Linkedin Profile" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/linkedin.svg"/></a> 
   <a href="#a">
-  <img  width="55" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/link.svg"/></a>  
+  <img  width="55" alt="Visit my Website" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/link.svg"/></a>  
   <a href="#">
-  <img  width="55" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/envelope-at.svg"/></a>
-  </div>
+  <img  width="55" alt="Send Me a Email" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/envelope-at.svg"/></a>
+  </div><br><br>
+
+  
+I'm Federico, a beginner tester and a self-taught Frontend student.  
+Below you can see some of my projects!
+
+
+
+
+
+
+
+
 
 ### Coding
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdaFederico&layout=compact&bg_color=231731&text_color=9970c5&title_color=ccd571)](https://github.com/pdaFederico/github-readme-stats)
