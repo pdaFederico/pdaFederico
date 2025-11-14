@@ -56,6 +56,15 @@ You can see some of these below!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdaFederico&repo=ticketazoqa&theme=jolly&title_color=ccd571" />
 </a>
 
+### Certifications
+
+<p align="center">
+<a href="https://openbadgefactory.com/obv3/credentials/e61d037a4c7bd8251d948758ed99c79bc0d34a76" target="_blank">
+<img
+src="" width="150">
+</a>
+<br>
+
 
 ### Other things i like
 
