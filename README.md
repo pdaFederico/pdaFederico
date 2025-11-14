@@ -8,6 +8,7 @@
 <!-- Introducing & Contact --> 
 
   ### About Me
+<!-- Profile Image -->
 <p align ="center">
 <a href="https://github.com/pdaFederico">
   <img width="200" alt="Profile Picture" src="https://github.com/user-attachments/assets/8ef127af-4346-4e33-9a1a-3eaa38481927"/>
@@ -23,7 +24,7 @@
   <img  width="55" alt="Send Me a Email" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/envelope-at.svg"/></a>
   </div><br><br>
 
-<!-- Intro -->   
+<!-- Bio -->   
 I'm Federico, a junior tester and a self-taught Web Frontend student.
 I have done several QA projects, both automated and manual.  
 You can see some of these below!
