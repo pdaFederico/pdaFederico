@@ -24,15 +24,9 @@
   </div><br><br>
 
   
-I'm Federico, a beginner tester and a self-taught Frontend student.  
-Below you can see some of my projects!
-
-
-
-
-
-
-
+I'm Federico, a junior tester and a self-taught Web Frontend student.
+I have done several QA projects, both automated and manual.  
+You can see some of these below!
 
 
 ### Coding
