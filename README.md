@@ -21,11 +21,11 @@
 </p>
 <!-- Social Icons --> 
   <div align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/federicopapada">
   <img  width="55" alt="Linkedin Profile" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/linkedin.svg"/></a> 
-  <a href="#a">
+  <a href="https://fdp.com.ar">
   <img  width="55" alt="Visit my Website" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/link.svg"/></a>  
-  <a href="#">
+  <a href="mailto:contacto@fdp.com.ar">
   <img  width="55" alt="Send Me a Email" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/purple/envelope-at.svg"/></a>
   </div><br><br>
 
