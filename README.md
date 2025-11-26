@@ -35,7 +35,7 @@ I have done several QA projects, both automated and manual.
 You can see some of these below!
 
 <!-- Top Languages Pin --> 
-### Coding
+### Code
 [![Top Langs](https://github-readme-stats-chi-sable-38.vercel.app/api/top-langs/?username=pdaFederico&layout=compact&bg_color=231731&text_color=9970c5&title_color=ccd571)](https://github.com/pdaFederico/github-readme-stats)
 
 <!-- Pin Repositories -->
@@ -69,14 +69,8 @@ You can see some of these below!
 </a>
 
 <a href="https://app.aluracursos.com/user/federicopapada/degree-html-css-v15485-15485/certificate" target="_blank">
-<img align="center" width="220" src="https://github.com/user-attachments/assets/f4035511-4e1c-4b1c-928a-569c46572db6" />
+<img align="center" width="220" src="https://github.com/user-attachments/assets/2440a457-ed64-41f5-be4f-b5c4b51f2e49" />
 </a>
-
-
-
-
-
-
 
 
 ### Other things i like
