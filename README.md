@@ -60,12 +60,23 @@ You can see some of these below!
 
 ### Certifications
 
-<p align="center">
 <a href="https://openbadgefactory.com/obv3/credentials/e61d037a4c7bd8251d948758ed99c79bc0d34a76" target="_blank">
-<img
-src="" width="150">
+<img align="center" width="220" src="https://github.com/user-attachments/assets/a4340d6d-9577-4f54-8546-aeec78a8bb54" />
 </a>
-<br>
+
+<a href="https://www.educacionit.com/perfil/federico-papada-1093393/certificado/81188" target="_blank">
+<img align="center" width="220" src="https://github.com/user-attachments/assets/f68ce8ab-743c-4cb4-9ea9-8e599aa74ccf" />
+</a>
+
+<a href="https://app.aluracursos.com/user/federicopapada/degree-html-css-v15485-15485/certificate" target="_blank">
+<img align="center" width="220" src="https://github.com/user-attachments/assets/f4035511-4e1c-4b1c-928a-569c46572db6" />
+</a>
+
+
+
+
+
+
 
 
 ### Other things i like
