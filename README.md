@@ -16,9 +16,10 @@
 <!-- Profile Image -->
 <p align ="center">
 <a href="https://github.com/pdaFederico">
-  <img width="200" alt="Profile Picture" src="https://github.com/user-attachments/assets/8ef127af-4346-4e33-9a1a-3eaa38481927"/>
+  <img width="200" alt="Profile Picture" src="https://github.com/user-attachments/assets/3e710cdc-bd81-4cfa-94c9-9287c07ef96e"/>
 </a>
 </p>
+
 <!-- Social Icons --> 
   <div align="center">
   <a href="https://www.linkedin.com/in/federicopapada">
