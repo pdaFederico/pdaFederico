@@ -1,9 +1,11 @@
 <!-- Header & Logo -->
 <p align ="center">
 <a href="https://github.com/pdaFederico">
-  <img width="800" alt="Logo FdP" src="https://github.com/user-attachments/assets/99ad1c7c-ee87-4335-a2a6-bc20e1944646"/>
+  <img width="800" alt="Logo FdP" src="https://github.com/user-attachments/assets/c24e0868-316c-4d6b-92e5-0a243148d9a7" />
 </a>
 </p>
+
+
 <!-- Divisory line --> 
 <p align ="center">
 <img width="890" height="20" alt="HR-VIOLET" src="https://github.com/user-attachments/assets/7c7064e8-91a6-415e-99b0-f7e8c8886920" />
