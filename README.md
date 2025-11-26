@@ -36,7 +36,7 @@ You can see some of these below!
 
 <!-- Top Languages Pin --> 
 ### Coding
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdaFederico&layout=compact&bg_color=231731&text_color=9970c5&title_color=ccd571)](https://github.com/pdaFederico/github-readme-stats)
+[![Top Langs](https://github-readme-stats-chi-sable-38.vercel.app/api/top-langs/?username=pdaFederico&layout=compact&bg_color=231731&text_color=9970c5&title_color=ccd571)](https://github.com/pdaFederico/github-readme-stats)
 
 <!-- Pin Repositories -->
 ### Some QA Projects
@@ -44,18 +44,18 @@ You can see some of these below!
 <!-- Repository 1 --> 
 
 <a href="https://github.com/pdaFederico/talentolab-testing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdaFederico&repo=talentolab-testing&theme=jolly&title_color=ccd571" />
+  <img align="center" src="https://github-readme-stats-chi-sable-38.vercel.app/api/pin/?username=pdaFederico&repo=talentolab-testing&theme=jolly&title_color=ccd571" />
 </a>
 <!-- Repository 2 -->
 
 <a href="https://github.com/pdaFederico/axiaraqa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdaFederico&repo=axiaraqa&theme=jolly&title_color=ccd571" />
+  <img align="center" src="https://github-readme-stats-chi-sable-38.vercel.app/api/pin/?username=pdaFederico&repo=axiaraqa&theme=jolly&title_color=ccd571" />
 </a>
 
 <!-- Repository 3 -->
 
 <br><a href="https://github.com/pdaFederico/ticketazoqa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdaFederico&repo=ticketazoqa&theme=jolly&title_color=ccd571" />
+  <img align="center" src="https://github-readme-stats-chi-sable-38.vercel.app/api/pin/?username=pdaFederico&repo=ticketazoqa&theme=jolly&title_color=ccd571" />
 </a>
 
 ### Certifications
