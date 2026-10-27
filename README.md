@@ -45,7 +45,7 @@ You can see some of these below!
 <!-- Repository 1 --> 
 
 <a href="https://github.com/pdaFederico/talentolab-testing">
-  <img align="center" src="https://github-readme-stats-chi-sable-38.vercel.app/api/pin/?username=pdaFederico&repo=talentolab-testing&theme=jolly&title_color=ccd571" />
+  <img align="center" src="[https://github-readme-stats-chi-sable-38.vercel.app](https://github-stats-extended.vercel.app)/api/pin/?username=pdaFederico&repo=talentolab-testing&theme=jolly&title_color=ccd571" />
 </a>
 <!-- Repository 2 -->
 
