@@ -61,6 +61,9 @@ You can see some of these below!
 
 ### Certifications
 
+<a href="https://openbadgepassport.com/app/badge/info/1225593" target="_blank">
+<img align="center" width="220" src="https://github.com/user-attachments/assets/a2e09d43-0aef-4325-bbc5-7f0d2728c8a8" /></a>
+
 <a href="https://openbadgefactory.com/obv3/credentials/d255f7799fcc0f8cd8276848a5eca4891eb3d50d" target="_blank">
 <img align="center" width="220" src="https://github.com/user-attachments/assets/00f41b89-b22c-4b1d-891f-e069848d94ae" /></a>
 
