@@ -62,7 +62,7 @@ You can see some of these below!
 ### Certifications
 
 <a href="https://openbadgefactory.com/obv3/credentials/d255f7799fcc0f8cd8276848a5eca4891eb3d50d" target="_blank">
-<img align="center" width="220" src="https://github.com/user-attachments/assets/31963a0c-c699-403b-93be-8499e87ae1c1" /></a>
+<img align="center" width="220" src="https://github.com/user-attachments/assets/00f41b89-b22c-4b1d-891f-e069848d94ae" /></a>
 
 <a href="https://openbadgefactory.com/obv3/credentials/e61d037a4c7bd8251d948758ed99c79bc0d34a76" target="_blank">
 <img align="center" width="220" src="https://github.com/user-attachments/assets/a4340d6d-9577-4f54-8546-aeec78a8bb54" /></a>
