@@ -61,17 +61,17 @@ You can see some of these below!
 
 ### Certifications
 
+<a href="https://openbadgefactory.com/obv3/credentials/d255f7799fcc0f8cd8276848a5eca4891eb3d50d" target="_blank">
+<img align="center" width="220" src="https://github.com/user-attachments/assets/31963a0c-c699-403b-93be-8499e87ae1c1" /></a>
+
 <a href="https://openbadgefactory.com/obv3/credentials/e61d037a4c7bd8251d948758ed99c79bc0d34a76" target="_blank">
-<img align="center" width="220" src="https://github.com/user-attachments/assets/a4340d6d-9577-4f54-8546-aeec78a8bb54" />
-</a>
+<img align="center" width="220" src="https://github.com/user-attachments/assets/a4340d6d-9577-4f54-8546-aeec78a8bb54" /></a>
 
 <a href="https://www.educacionit.com/perfil/federico-papada-1093393/certificado/81188" target="_blank">
-<img align="center" width="220" src="https://github.com/user-attachments/assets/f68ce8ab-743c-4cb4-9ea9-8e599aa74ccf" />
-</a>
+<img align="center" width="220" src="https://github.com/user-attachments/assets/f68ce8ab-743c-4cb4-9ea9-8e599aa74ccf" /></a>
 
 <a href="https://app.aluracursos.com/user/federicopapada/degree-html-css-v15485-15485/certificate" target="_blank">
-<img align="center" width="220" src="https://github.com/user-attachments/assets/2440a457-ed64-41f5-be4f-b5c4b51f2e49" />
-</a>
+<img align="center" width="220" src="https://github.com/user-attachments/assets/2440a457-ed64-41f5-be4f-b5c4b51f2e49" /></a>
 
 
 ### Other things i like
